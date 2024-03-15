@@ -40,7 +40,7 @@ export default function Navbar() {
             <Link to="home">
               <div className="container flex items-center space-x-2">
                 <h2 className="text-2xl font-bold cursor-pointer">
-                  Akoliya Nirmal
+                  Harsh Borsadiya
                 </h2>
               </div>
             </Link>

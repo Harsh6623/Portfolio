@@ -5,6 +5,7 @@ const skills = [
   { skill: "Html" },
   { skill: "CSS" },
   { skill: "JavaScript" },
+  { skill: "J-Query" },
   { skill: "TypeScript" },
   { skill: "Bootstrap" },
   { skill: "ReactJs" },
@@ -30,7 +31,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Nirmal and I am a{" "}
+              Hi, my name is Harsh and I am a{" "}
               <span className="font-bold">{"highly ambitious"}</span>,
               <span className="font-bold">{" self-motivated"}</span>, and
               <span className="font-bold">{" driven"}</span> Computer engineer
@@ -76,7 +77,7 @@ const AboutSection = () => {
               })}
             </div>
             <Image
-              src="/hero-image.png"
+              src="/boy.png"
               alt=""
               width={325}
               height={325}

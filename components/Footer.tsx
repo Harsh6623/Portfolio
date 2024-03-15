@@ -12,11 +12,11 @@ const Footer = () => {
       <hr className="w-full h-0.5 mx-auto mt-8 bg-neutral-200 border-0"></hr>
       <div className="mx-auto  p-4 flex flex-col text-center text-neutral-900 md:flex-row md:justify-between">
         <div className="flex flex-row items-center justify-center space-x-1 text-neutral-500 dark:text-neutral-100">
-          © 2024 Nirmal Akoliya<a href="/" className="hover:underline"></a>
+          © 2024 Harsh Borsadiya<a href="/" className="hover:underline"></a>
         </div>
         <div className="flex flex-row items-center justify-center space-x-2 mb-1">
           <a
-            href="https://github.com/12nirmal"
+            href="https://github.com/Harsh6623"
             rel="noreferrer"
             target="_blank"
           >
